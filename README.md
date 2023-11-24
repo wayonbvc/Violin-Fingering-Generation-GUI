@@ -11,6 +11,6 @@ We provide a deep-learning-based violin fingering generation system that directl
 1. Run the file **violin_app.py**
 2. Load an XML file that contains a violin score.
 3. Select a generation model (symbolic, symbolic-audio, autoregressive). To use the symbolic-audio model, users have to import an audio file.
-4. Click **recommend** to generate violin fingering. The generated fingering will be shown on the GUI.
-5. If users are unsatisfied with the output, press **clear fingering** and try another model.
+4. Click **Recommend** to generate violin fingering. The generated fingering will be shown on the GUI.
+5. If users are unsatisfied with the output, press **Clear fingering** and try another model.
 6. Press **Save xml** to save the score with generated fingerings. Users can open and edit it with any music notation software.
